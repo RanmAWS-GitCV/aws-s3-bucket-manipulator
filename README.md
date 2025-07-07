@@ -3,7 +3,8 @@
 A simple Python-based command-line tool to interact with your AWS S3 environment.  
 It allows you to list, create, and delete S3 buckets using `boto3`.
 
-> ⚠️ This tool is for educational and portfolio purposes. Use with caution on live AWS environments.
+>⚠️ This is a learning project and not intended for production use. Some error handling and validations are simplified or missing. Use with caution on live AWS environments.
+
 
 ---
 
